@@ -6,7 +6,7 @@ stocastico offre una selezione di funzioni per svolgere esercizi per corsi di mo
 
 ## Installazione
 
-Per installare il pacchetto stocastico da GitHub, puoi utilizzare il pacchetto `devtools`:
+Per installare stocastico da GitHub, puoi utilizzare il pacchetto `devtools`:
 
 ```r
 devtools::install_github("GiuVerdo/stocastico")
